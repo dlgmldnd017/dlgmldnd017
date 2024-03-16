@@ -24,8 +24,8 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://junia3.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+  <a href="https://kind-coding.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-red?style=plastic&logo=hashnode&logoColor=white"/>
   </a>
 </span>
 <span>
