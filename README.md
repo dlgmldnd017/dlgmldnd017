@@ -14,7 +14,7 @@
   <br/>
   
   <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=FFF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+HuiUng+Lee;Research+on+deep+learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=FFF&size=35&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+HuiUng+Lee;This is my Github.;Have+a+good+day." alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
