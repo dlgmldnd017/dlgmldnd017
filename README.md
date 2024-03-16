@@ -35,7 +35,7 @@
 </span> 
 <br><br>
 
-<h1 "color:blue">OBJECTIVE</h1>
+<h1 style="color:blue">OBJECTIVE</h1>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />  Full Stack Developer  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
 
 ## WORK EXPERIENCE
