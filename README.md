@@ -15,7 +15,7 @@
   
   <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster &color=FFF&size=38&pause=7000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C + I'm +HuiUng + Lee.;Have  a  good  day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFF&size=38&pause=7000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C + I'm +HuiUng + Lee.;Have  a  good  day." alt="Typing SVG" />
 </a>
 <div align="center">  
 <br>
