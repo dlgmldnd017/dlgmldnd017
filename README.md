@@ -25,24 +25,14 @@
 <br><br>
 <span>
   <a href="https://kind-coding.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=hashnode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-red?style=plastic&logo=hashnode&logoColor=white"/>
   </a>
 </span>
 <span>
-  <a href="mailto:jun_yonsei@yonsei.ac.kr">
+  <a href="mailto:dlgmldnd017@naver.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.facebook.com/jyyonsei">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
-  </a>
-</span>   
+</span> 
 <br><br>
 
 ## OBJECTIVE
