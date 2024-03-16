@@ -23,10 +23,10 @@
   <a href="https://github.com/dlgmldnd017/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dlgmldnd017&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
-  <br/>
+  <br/><br/>
 
   <!-- Hits -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgmldnd017%2Fhit-counter&count_bg=%231578E9&title_bg=%23414141&icon=github.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgmldnd017%2Fhit-counter&count_bg=%231578E9&title_bg=%23414141&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" />
 </div>
 <br/>
 
