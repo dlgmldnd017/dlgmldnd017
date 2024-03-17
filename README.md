@@ -97,7 +97,7 @@
     <tr>
       <th style="text-align: center" width="20%">프로젝트 주제</th>
       <th style="text-align: center" width="15%">프로젝트 내용</th>
-      <th style="text-align: center" width="15%>협업</th>
+      <th style="text-align: center" width="15%">협업</th>
       <th style="text-align: center width="15%">코드</th>
       <th style="text-align: center width="15%">시연영상</th>
       <th style="text-align: center width="10%">기간</th>
