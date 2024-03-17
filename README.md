@@ -5,7 +5,7 @@
   
   <!-- Title Typing Effect -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?        font=Lobster&color=FFF&size=38&pause=7000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C + I'm +HuiUng +   Lee.;Have  a  good  day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFF&size=38&pause=7000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C + I'm +HuiUng +   Lee.;Have  a  good  day." alt="Typing SVG" />
   </a>
   <div align="center">  
 <br>
@@ -85,7 +85,7 @@
 <details><summary>IoT Project</summary> 
 <table>
   <tr>
-    <th>주제</th>
+    <th style="width="20%">주제</th>
     <td>IoT를 이용한 창문 여닫기</td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@
     <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">창문 여딛기</a></td>
   </tr>
   <tr>
-    <th class="vertical-header">시연</th>
+    <th >시연</th>
       <td>  
         <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
         <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
