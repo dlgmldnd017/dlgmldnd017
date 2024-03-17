@@ -54,22 +54,13 @@ Bachelor Degree of Computer engineering in Myongji University, Yongin/South Kore
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> Frontend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
-<span>
-    <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
-</span>
+
+### WEB - <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+
 
 <br/><br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Backend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Backend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
 <br/>
 
