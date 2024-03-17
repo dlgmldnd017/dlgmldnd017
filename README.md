@@ -58,7 +58,7 @@
 
 ### <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
 
-### <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+### <img src="https://img.shields.io/badge/HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/JQuery-white?style=plastic&logo=jQuery&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
 
 <br/>
 
@@ -67,9 +67,9 @@
 
 ### <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-6DB33F?style=plastic&logo=swagger&logoColor=white">
 
-### <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=plastic&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-886FBF?style=plastic&logo=oauth2.0&logoColor=white"> 
+### <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-886FBF?style=plastic&logo=oauth2.0&logoColor=white"> 
 
-### <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white"/> 
+### <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/> 
 
 ### <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=gradle&logoColor=white"/> 
 
