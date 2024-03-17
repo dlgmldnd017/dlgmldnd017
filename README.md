@@ -95,13 +95,13 @@
 <details> <summary>IoT Project</summary> 
   <table style="font-size: 14px;">
     <tr>
-      <th style="text-align: center">프로젝트 주제</th>
-      <th style="text-align: center">프로젝트 내용</th>
-      <th style="text-align: center">협업</th>
-      <th style="text-align: center">코드</th>
-      <th style="text-align: center">시연영상</th>
-      <th style="text-align: center">기간</th>
-      <th style="text-align: center">위치</th>
+      <th style="text-align: center" width="20%">프로젝트 주제</th>
+      <th style="text-align: center" width="20%">프로젝트 내용</th>
+      <th style="text-align: center" width="20%>협업</th>
+      <th style="text-align: center width="20%">코드</th>
+      <th style="text-align: center width="20%">시연영상</th>
+      <th style="text-align: center width="20%">기간</th>
+      <th style="text-align: center width="20%">위치</th>
     </tr>
     <tr>
       <td> IoT를 이용한 창문 여닫기 </td>
