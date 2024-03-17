@@ -77,6 +77,8 @@
 
 ### <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Mariadb-003545?style=plastic&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"> 
 
+### <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/> 
+
 <br/>
 
 <!-- 인프라 스킬 -->
@@ -88,11 +90,13 @@
 
 <br/>
 
-## Publications
-**J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
-```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```IEEE/CVF WACV 2024```  Poster presentation
+## Projects
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> SSAFY 1th semester Project Second Place <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
 
 </div>
 </div>
