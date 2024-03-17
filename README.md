@@ -85,23 +85,23 @@
 <details><summary>IoT Project</summary> 
 <table>
   <tr>
-    <th style="width: 30%;">주제</th>
+    <th>주제</th>
     <td>IoT를 이용한 창문 여닫기</td>
   </tr>
   <tr>
-    <th style="width: 30%;">주제</th>
+    <th>내용</th>
     <td>창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용하며, 수동 또는 자동으로 창문을 여닫기를 합니다.</td>
   </tr>
   <tr>
-    <th style="width: 30%;">주제</th>
-    <td></td>
+    <th>협업</th>
+    <td><img src="https://img.shields.io/badge/Frontend[1]-5A0FC8?style=plastic&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Backend[3]-4B4B77style=plastic&logo=java&logoColor=white"/></td>
   </tr>
   <tr>
-    <th style="width: 30%;">주제</th>
+    <th>코드</th>
     <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">창문 여딛기</a></td>
   </tr>
   <tr>
-    <th style="width: 30%;">주제</th>
+    <th>시연</th>
       <td>  
         <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
         <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
@@ -109,11 +109,11 @@
       </td>
     </tr>
     <tr>
-      <th style="width: 30%;">주제</th>
+      <th>기간</th>
       <td> <img src="https://img.shields.io/badge/2020/03~2020/06-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
     </tr>
     <tr>
-      <th style="width: 30%;">주제</th>
+      <th>위치</th>
       <td> <img src="https://img.shields.io/badge/Myongji University (Yongin/South Korea)-62BB47?style=plastic&logo=reverbnation&logoColor=white"/></td>
     </tr>
   </table>
