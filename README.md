@@ -86,7 +86,7 @@
 <table>
   <tr>
     <th style="width: 30%;">주제</th>
-    <td>IoT를 이용한 창문 여닫기</td>
+    <td style="width: 70%;">IoT를 이용한 창문 여닫기</td>
   </tr>
   <tr>
     <th>내용</th>
