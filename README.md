@@ -95,7 +95,7 @@
 <details><summary>IoT Project</summary> 
 <table>
   <tr>
-    <?>,`th>주제</th>
+    <th>주제</th>
     <td>IoT를 이용한 창문 여닫기</td>
   </tr>
   <tr>
