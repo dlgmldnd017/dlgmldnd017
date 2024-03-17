@@ -128,13 +128,13 @@
   </table>
 </detail> 
 
-  <br/><br/>
+<br/><br/>
+
+</div>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> SSAFY 1th semester Project Second Place <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
-
-</div>
 </div>
 <br/><br/>
 
