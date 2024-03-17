@@ -108,26 +108,27 @@
   </tr>
   <tr>
     <th>코드</th>
-    <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">창문 여다딛기</a></td>
+    <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">창문 여딛기</a></td>
   </tr>
   <tr>
     <th class="vertical-header">시연</th>
-    <td><a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
-        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
-        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">3</a></td>
-  </tr>
-  <tr>
-    <th>기간</th>
-    <td> 03/2020 ~ 06/2020 </td>
-  </tr>
-  <tr>
-    <th>위치</th>
-    <td> Myongji University(Yongin/South Korea) </td>
-  </tr>
-</table>
+      <td>  <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
+          <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
+          <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">3</a>
+      </td>
+    </tr>
+    <tr>
+      <th>기간</th>
+      <td> 03/2020 ~ 06/2020 </td>
+    </tr>
+    <tr>
+      <th>위치</th>
+      <td> Myongji University(Yongin/South Korea) </td>
+    </tr>
+  </table>
 </detail> 
 
-<br/><br/>
+  <br/><br/>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
