@@ -92,26 +92,26 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" />
 
-### <details> <summary>IoT Project</summary> 
-<table>
-  <tr>
-    <th>프로젝트 주제</th>
-    <th>프로젝트 내용</th>
-    <th>협업</th>
-    <th>코드</th>
-    <th>시연영상</th>
-    <th>기간</th>
-    <th>위치</th>
-  </tr>
-  <tr>
-    <td>IoT를 이용한 창문 여닫기  </td>
-    <td>창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용하며, 수동 또는 자동으로 창문을 여닫기를 합니다.</td>
-    <td></td>
-    <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">IoT 창문 여닫기</a></td>
-    <td> <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 1 </a> <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 2 </a> <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 3 </a></td>
-    <td>```(03/2020 ~ 06/2020)```</td>
-    <td>```Myongji University(Yongin/South Korea)```</td>
-  </tr>
+<details> <summary>IoT Project</summary> 
+  <table>
+    <tr>
+      <th>프로젝트 주제</th>
+      <th>프로젝트 내용</th>
+      <th>협업</th>
+      <th>코드</th>
+      <th>시연영상</th>
+      <th>기간</th>
+      <th>위치</th>
+    </tr>
+    <tr>
+      <td>IoT를 이용한 창문 여닫기  </td>
+      <td>창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용하며, 수동 또는 자동으로 창문을 여닫기를 합니다.</td>
+      <td></td>
+      <td><a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">IoT 창문 여닫기</a></td>
+      <td> <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 1 </a> <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 2 </a> <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC"> 3 </a></td>
+      <td>```(03/2020 ~ 06/2020)```</td>
+      <td>```Myongji University(Yongin/South Korea)```</td>
+    </tr>
   </table>
 </detail> 
 
