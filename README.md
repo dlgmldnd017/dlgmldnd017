@@ -92,7 +92,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" />
 
-### <details> <summary>IoT Project</summary> **프로젝트 주제:** IoT를 이용한 창문 여닫기  
+### <details> <summary>IoT Project</summary> | **프로젝트 주제** | **프로젝트 내용** | **협업** | **기간** | **위치** |
+|----------------|----------------|---------|---------|---------|
+|                |                |         |         |         | **프로젝트 주제:** IoT를 이용한 창문 여닫기  
 **프로젝트 내용:** 창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용하며, 수동 또는 자동으로 창문을 여닫기를 합니다.
 **협업:** 
 **코드:** <a href="https://github.com/dlgmldnd017/AndroidStudio/tree/main/Project/A%20college%20graduation%20work">IoT 창문 여닫기</a>
