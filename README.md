@@ -90,6 +90,14 @@
 
 <br/><br/>
 
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> SSAFY 1th semester Project Second Place <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
+  </div>
+</div>
+
+<br/><br/>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" />
 
 <details><summary>IoT Project</summary> 
@@ -126,17 +134,8 @@
       <td> Myongji University(Yongin/South Korea) </td>
     </tr>
   </table>
-</detail> 
-</div>
-
-<br/><br/>
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> SSAFY 1th semester Project Second Place <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
-</div>
-<br/><br/>
-
+</detail>
+  
 <!-- Body -->
 <div align="center">
   <a href="https://github.com/dlgmldnd017/github-readme-stats">
