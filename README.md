@@ -48,9 +48,10 @@ Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(07/2023
 
 <br/><br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> EDUCATION <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" /> EDUCATION <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />
 Bachelor Degree of Computer engineering ```(03/2017 ~ 08/2020)``` (Myongji University, Yongin)   
 
+<br/>
 
 ## ADDITIONAL SKILLS
 <span>
