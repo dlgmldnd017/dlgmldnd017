@@ -106,9 +106,9 @@
   <tr>
     <th>시연</th>
       <td>  
-        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
-        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
-        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">3</a>
+        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(1)</a> 
+        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(2)</a> 
+        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(3)</a>
       </td>
     </tr>
     <tr>
@@ -121,6 +121,89 @@
     </tr>
   </table>
 </details>
+<br/>
+
+<details><summary>IoT Project</summary> 
+<table>
+  <tr>
+    <th>주제</th>
+    <td>부동산 매물</td>
+  </tr>
+  <tr>
+    <th>내용</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>협업</th>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend[1]-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend[1]-6DB33F?style=plastic&logo=springboot&logoColor=white"/> 
+    </td>
+  </tr>
+  <tr>
+    <th>코드</th>
+    <td>
+      <a href="https://github.com/Team-4Byte">Dream House</a>
+    </td>
+  </tr>
+  <tr>
+    <th>시연</th>
+      <td>  
+        <a href="https://youtu.be/HJZz4N7R2sA">유튜브(1)</a>
+      </td>
+    </tr>
+    <tr>
+      <th>기간</th>
+      <td> <img src="https://img.shields.io/badge/2023/12~2023/12-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
+    </tr>
+    <tr>
+      <th>위치</th>
+      <td> <img src="https://img.shields.io/badge/Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea-1428A0?style=plastic&logo=samsung&logoColor=white"/></td>
+    </tr>
+  </table>
+</details>
+<br/>
+
+<details><summary>IoT Project</summary> 
+<table>
+  <tr>
+    <th>주제</th>
+    <td>밀정 윷놀이</td>
+  </tr>
+  <tr>
+    <th>내용</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>협업</th>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend[4]-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend[2]-6DB33F?style=plastic&logo=springboot&logoColor=white"/> 
+    </td>
+  </tr>
+  <tr>
+    <th>코드</th>
+    <td>
+      <a href="https://github.com/dlgmldnd017/Spy_Yutnori_game/tree/master">밀정 윷놀이</a>
+    </td>
+  </tr>
+  <tr>
+    <th>시연</th>
+      <td>  
+        <a href="https://github.com/dlgmldnd017/Spy_Yutnori_game/blob/master/README.md">Readme.md</a>
+      </td>
+    </tr>
+    <tr>
+      <th>기간</th>
+      <td> <img src="https://img.shields.io/badge/2024/01~2024/02-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
+    </tr>
+    <tr>
+      <th>위치</th>
+      <td> <img src="https://img.shields.io/badge/Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea-1428A0?style=plastic&logo=samsung&logoColor=white"/></td>
+    </tr>
+  </table>
+</details>
+<br/>
 
 <br/><br/>
 
