@@ -64,11 +64,13 @@ Bachelor Degree of Computer engineering in Myongji University, Yongin/South Kore
 
 <!-- 백엔드 스킬 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Backend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
-### <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=plastic&logo=jsonwebtokens&logoColor=black"> 
+### <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"> 
+
+### <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=plastic&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-00000?style=plastic&logo=oauth2.0&logoColor=white"> 
 
 ### <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white"/> 
 
-### <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+### <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
 
 <br/>
 
