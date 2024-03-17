@@ -1,13 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
@@ -44,7 +34,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   WORK EXPERIENCE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
 #### Teaching assistant for Computer Architecturecourses in Myongji University, Yongin/South Korea ```(2020, 2021)```
-#### Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(07/2023 ~ 07/2024)```
+#### Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(2023/07 ~ 2024/07)```
 
 <br/><br/>
 
@@ -112,18 +102,19 @@
   </tr>
   <tr>
     <th class="vertical-header">시연</th>
-      <td>  <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
-          <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
-          <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">3</a>
+      <td>  
+        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">1</a> 
+        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">2</a> 
+        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">3</a>
       </td>
     </tr>
     <tr>
       <th>기간</th>
-      <td> 03/2020 ~ 06/2020 </td>
+      <td> <img src="https://img.shields.io/badge/2020/03~2020/06-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
     </tr>
     <tr>
       <th>위치</th>
-      <td> Myongji University(Yongin/South Korea) </td>
+      <td> <img src="https://img.shields.io/badge/Myongji University (Yongin/South Korea)-62BB47?style=plastic&logo=reverbnation&logoColor=white"/></td>
     </tr>
   </table>
 </details>
