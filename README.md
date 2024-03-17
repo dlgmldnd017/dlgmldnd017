@@ -43,8 +43,8 @@
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   WORK EXPERIENCE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
-Teaching assistant for Computer Architecturecourses in Myongji University, Yongin/South Korea ```(2020, 2021)```
-Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(07/2023 ~ 07/2024)```
+### Teaching assistant for Computer Architecturecourses in Myongji University, Yongin/South Korea ```(2020, 2021)```
+### Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(07/2023 ~ 07/2024)```
 
 <br/>
 
@@ -56,7 +56,7 @@ Bachelor Degree of Computer engineering in Myongji University, Yongin/South Kore
 <!-- 프론트엔드 스킬 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> Frontend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
 
-### <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+### <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
 
 ### <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
 
