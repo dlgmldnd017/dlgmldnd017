@@ -94,7 +94,10 @@
   </tr>
   <tr>
     <th>협업</th>
-    <td><img src="https://img.shields.io/badge/Frontend[1]-5A0FC8?style=plastic&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Backend[3]-4B4B77&style=plastic&logo=openjdk&logoColor=white"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend[1]-5A0FC8?style=plastic&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend[3]-6CD74A?style=plastic&logo=openjdk&logoColor=white"/> 
+    </td>
   </tr>
   <tr>
     <th>코드</th>
