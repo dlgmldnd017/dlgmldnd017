@@ -53,32 +53,21 @@ Bachelor Degree of Computer engineering ```(03/2017 ~ 08/2020)``` (Myongji Unive
 
 <br/>
 
-## ADDITIONAL SKILLS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> FrontEnd SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-   
-<span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ jQuery-white?style=for-the-badge&logo=jQuery&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </span>
-<span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
-</span>
+
+<br/>
 
 ## Publications
 **J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
