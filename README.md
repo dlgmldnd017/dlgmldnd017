@@ -85,7 +85,7 @@
 <details><summary>IoT Project</summary> 
 <table>
   <tr>
-    <th style="width="50%">주제</th>
+    <th style="width: 30%;">주제</th>
     <td>IoT를 이용한 창문 여닫기</td>
   </tr>
   <tr>
