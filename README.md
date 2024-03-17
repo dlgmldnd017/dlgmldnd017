@@ -77,11 +77,12 @@ Bachelor Degree of Computer engineering in Myongji University, Yongin/South Kore
 
 <br/>
 
+<!-- 인프라 스킬 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Infra SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />
 
-### <img src="https://img.shields.io/badge/amazonec2-FF9900?style=plastic&logo=amazonec2&logoColor=white"/> 
+### <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white"/> 
 
-### <img src="https://img.shields.io/badge/jenkins-D24939?style=plastic&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+### <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
 
 <br/>
 
