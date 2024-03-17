@@ -35,13 +35,11 @@
 </span> 
 <br><br>
 
-##
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />   OBJECTIVE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />
-<br/>
+
 ``` Full Stack Developer ```    
 
-##
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   WORK EXPERIENCE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
 Teaching assistant for Computer Architecturecourses in Myongji University, Yongin/South Korea ```(2020, 2021)```
