@@ -55,7 +55,9 @@ Bachelor Degree of Computer engineering in Myongji University, Yongin/South Kore
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> Frontend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
 
-### WEB - <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+### WEB <img src="https://img.shields.io/badge/ HTML-red?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+
+### Android <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 
 <br/><br/>
