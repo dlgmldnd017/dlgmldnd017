@@ -109,9 +109,9 @@
   <tr>
     <th>시연</th>
       <td>  
-        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(1)</a> &nbsp
-        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(2)</a> &nbsp
-        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(3)</a> &nbsp
+        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(1)</a> &nbsp &nbsp
+        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(2)</a> &nbsp &nbsp
+        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(3)</a> &nbsp &nbsp
       </td>
     </tr>
     <tr>
@@ -134,7 +134,11 @@
   </tr>
   <tr>
     <th>내용</th>
-    <td></td>
+    <td>
+      전국에 있는 몇몇 부동산 매물을 가져와 검색 또는 조회를 통해 지리, 시세, 거래량 변동 추이<br>
+      등을 웹을 통해 한눈에 볼 수 있습니다. 또한 실제 인기 있는 유튜브 영상과 거래량이 높은 
+      Top 3을 볼 수도 있습니다.
+    </td>
   </tr>
   <tr>
     <th>협업</th>
@@ -175,7 +179,13 @@
   </tr>
   <tr>
     <th>내용</th>
-    <td></td>
+    <td>
+      헌국 전통 게임인 윷놀이를 베이스로 하고 스파이 요소와 WEB RTC 기술을 넣은 게임 입니다.<br>
+      3대3 매치 게임이며, 윷놀이 게임처럼 자신의 팀 말이 모두 들어가게 되면 승리하지만,<br>
+      반대로 패배 요건은 자신의 말 중 스파이를 추리를 하지 못하여 골인 지점에 들어가 되면<br>
+      게임에 패배하게 됩니다. <br>
+      자세한 게임 방식은 Readme.md를 통해 확인해주세요.
+    </td>
   </tr>
   <tr>
     <th>협업</th>
