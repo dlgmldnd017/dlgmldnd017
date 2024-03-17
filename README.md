@@ -35,11 +35,14 @@
 </span> 
 <br><br>
 
-##OBJECTIVE
+##
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />
+
+## OBJECTIVE
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" />    Full Stack Developer    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
 
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 Teaching assistant for (Computer Architecture + Computer System) courses in Myongji University, Yongin/South Korea 
  ```(2020, 2021)```
 Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(07/2023 ~ 07/2024)```
