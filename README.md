@@ -91,7 +91,7 @@
   <tr>
     <th>내용</th>
     <td>
-      창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용
+      창문에 IoT기기를 설치하여 빗물, 가스, 미세먼지 등을 감지하여 실시간으로 사용자와 상호작용<br>
       하며 수동 또는 자동으로 창문을 여닫기 합니다.
     </td>
   </tr>
@@ -109,9 +109,9 @@
   <tr>
     <th>시연</th>
       <td>  
-        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(1)</a> 
-        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(2)</a> 
-        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(3)</a>
+        <a href="https://www.youtube.com/watch?v=n3KCDYtb7tQ&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(1)</a> &nbsp
+        <a href="https://www.youtube.com/watch?v=KpdQQQSdyZE&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(2)</a> &nbsp
+        <a href="https://www.youtube.com/watch?v=vV0kUbLyrXk&ab_channel=%EC%98%A4%EB%8A%98%EC%9D%98%EA%B3%A0%EB%AF%BC">유튜브(3)</a> &nbsp
       </td>
     </tr>
     <tr>
