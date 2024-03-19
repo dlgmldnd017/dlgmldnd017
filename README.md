@@ -5,7 +5,7 @@
   
   <!-- Title Typing Effect -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. ╰( ･ ᗜ ･ )╯;  만나서 반갑습니다. ヽ(^。^)丿;좋은 하루 되세요. ヽ( ´￢`)ﾉ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. ╰( ･ ᗜ ･ )╯;  반갑습니다. ヽ(^。^)丿;좋은 하루 되세요. ヽ( ´￢`)ﾉ" alt="Typing SVG" />
   </a>
   <div align="center">  
 <br>
