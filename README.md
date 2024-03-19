@@ -5,7 +5,7 @@
   
   <!-- Title Typing Effect -->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=Welcome to you. ╰( ･ ᗜ ･ )╯;  Nice to meet you. ヽ(^。^)丿;Have  a  good  day. ヽ( ´￢`)ﾉ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. !! ╰( ･ ᗜ ･ )╯;  환영합니다. !! ヽ(^。^)丿;좋은 하루 되세요 ~~ ヽ( ´￢`)ﾉ" alt="Typing SVG" />
   </a>
   <div align="center">  
 <br>
@@ -26,25 +26,25 @@
 <br><br>
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />   OBJECTIVE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />   목표   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" />
 
 ``` Full Stack Developer ```    
 
 <br/><br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   WORK EXPERIENCE   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
-#### Teaching assistant for Computer Architecturecourses in Myongji University, Yongin/South Korea ```(2020, 2021)```
-#### Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea ```(2023/07 ~ 2024/07)```
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   경력   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
+#### ( 컴퓨터 아키텍처, 시스템 프로그래밍) 조교 활동 ( 명지대학교(용인) ) ```(2020, 2021)```
+#### 삼성 청년 소프트웨어 아카데미 ( SSAFY ) ```(2023/07 ~ 2024/07)```
 
 <br/><br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" /> EDUCATION <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />
-#### Bachelor Degree of Computer engineering in Myongji University, Yongin/South Korea ```(03/2017 ~ 08/2020)```
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" /> 교육 기관 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />
+#### 명지대학교(용인) 컴퓨터 공학과 졸업 ```(03/2017 ~ 08/2020)```
 
 <br/><br/>
 
 <!-- 프론트엔드 스킬 -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> Frontend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> 프론트엔드 기술 스택 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
 
 ### <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
 
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <!-- 백엔드 스킬 -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Backend SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 백엔드 기술 스택 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
 ### <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-6DB33F?style=plastic&logo=swagger&logoColor=white">
 
@@ -72,7 +72,7 @@
 <br/><br/>
 
 <!-- 인프라 스킬 -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Infra SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> 인프라 기술 스택 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />
 
 ### <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white"/> 
 
@@ -80,7 +80,7 @@
 
 <br/><br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> 프로젝트 모음 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" />
 
 <details><summary>The IoT Project</summary> 
 <table>
@@ -220,9 +220,9 @@
 
 <br/><br/>
 
-  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Awards <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> 수상 이력 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> SSAFY 1th semester Project Second Place <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> 삼성 청년 소프트웨어 1학기 프로젝트 우수상 ( SSAFY ) <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
   <br/><br/>
   </div>
 </div>
