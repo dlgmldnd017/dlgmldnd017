@@ -219,6 +219,55 @@
 <br/>
 
 <br/><br/>
+<details><summary>The Vodle Project</summary> 
+<table>
+  <tr>
+    <th>주제</th>
+    <td>Voice + Doodle</td>
+  </tr>
+  <tr>
+    <th>내용</th>
+    <td>
+      현재 자신의 위치에서 음성을 기록을 남길 수 있는 서비스입니다.
+      음성 기록에는 다양한 종류가 존재합니다. 첫 번째로는 자신의 목소리를 
+      인기있는 인물의 음성으로 변환하여표현할 수 있습니다.
+      두 번째로는 텍스트를 입력하면 음성으로 변환하여 표현할 수 있습니다.
+      <br><br>
+      자세한 내용은 Readme.md를 통해 확인해주세요.
+    </td>
+  </tr>
+  <tr>
+    <th>협업</th>
+    <td>
+      <img src="https://img.shields.io/badge/Frontend[2]-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend[4]-6DB33F?style=plastic&logo=springboot&logoColor=white"/> 
+    </td>
+  </tr>
+  <tr>
+    <th>코드</th>
+    <td>
+      <a href="https://github.com/dlgmldnd017/Vodle">Vodle</a>
+    </td>
+  </tr>
+  <tr>
+    <th>시연</th>
+      <td>  
+        <a href="https://github.com/dlgmldnd017/Vodle/blob/main/README.md">Readme.md</a>
+      </td>
+    </tr>
+    <tr>
+      <th>기간</th>
+      <td> <img src="https://img.shields.io/badge/2024/03~2024/044-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
+    </tr>
+    <tr>
+      <th>위치</th>
+      <td> <img src="https://img.shields.io/badge/Samsung Software Academy For Youth Academy (SSAFY), Gumi/South Korea-1428A0?style=plastic&logo=samsung&logoColor=white"/></td>
+    </tr>
+  </table>
+</details>
+<br/>
+
+<br/><br/>
 
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> 수상 이력 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
