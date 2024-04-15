@@ -230,7 +230,7 @@
       현재 자신의 위치에서 음성을 기록을 남길 수 있는 서비스입니다.<br/>
       음성 기록에는 다양한 종류가 존재합니다.<br/>
       첫 번째로는 자신의 목소리를 인기있는 인물의 음성으로 변환하여표현할 수 있습니다.<br/>
-      두 번째로는 텍스트를 입력하면 음성으로 변환하여 표현할 수 있습니다.<br/>
+      두 번째로는 텍스트를 입력하면 음성으로 변환하여 표현할 수 있습니다.
       <br><br>
       자세한 내용은 Readme.md를 통해 확인해주세요.
     </td>
@@ -256,7 +256,7 @@
     </tr>
     <tr>
       <th>기간</th>
-      <td> <img src="https://img.shields.io/badge/2024/03~2024/044-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
+      <td> <img src="https://img.shields.io/badge/2024/03~2024/04-009EDB?style=plastic&logo=unitednations&logoColor=white"/> </td>
     </tr>
     <tr>
       <th>위치</th>
