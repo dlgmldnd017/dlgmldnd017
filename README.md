@@ -238,7 +238,7 @@
   <tr>
     <th>협업</th>
     <td>
-      <img src="https://img.shields.io/badge/Frontend[2]-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Frontend[2]-34A853?style=plastic&logo=Android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Backend[4]-6DB33F?style=plastic&logo=springboot&logoColor=white"/> 
     </td>
   </tr>
