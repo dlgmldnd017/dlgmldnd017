@@ -1,16 +1,10 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-  <br/>
-  
-  <!-- Title Typing Effect -->
-  <!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. ╰( ･ ᗜ ･ )╯;  반갑습니다. ヽ(^。^)丿; 이희웅 입니다.ヽ( ´￢`)ﾉ" alt="Typing SVG" />
-  </a> -->
-  <div align="center">  
-<br>
-<!-- My CV/resume -->
-<details>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
   <style>
     .custom-summary {
       font-size: 36px; /* 글자 크기 */
@@ -24,6 +18,20 @@
       text-decoration: underline; /* 호버 시 밑줄 */
     }
   </style>
+</head>
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <br/>
+  
+  <!-- Title Typing Effect -->
+  <!-- <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. ╰( ･ ᗜ ･ )╯;  반갑습니다. ヽ(^。^)丿; 이희웅 입니다.ヽ( ´￢`)ﾉ" alt="Typing SVG" />
+  </a> -->
+  <div align="center">  
+<br>
+<!-- My CV/resume -->
+<details>
 <summary class="custom-summary">
   About Me
 </summary>
