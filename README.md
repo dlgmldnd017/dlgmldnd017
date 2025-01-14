@@ -11,7 +11,20 @@
 <br>
 <!-- My CV/resume -->
 <details>
-<summary style="font-size: 32px; font-weight: bold; color: #4CAF50; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <style>
+    .custom-summary {
+      font-size: 36px; /* 글자 크기 */
+      font-weight: bold; /* 굵게 */
+      color: #4CAF50; /* 초록색 */
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* 그림자 */
+      cursor: pointer; /* 클릭 가능한 표시 */
+    }
+    .custom-summary:hover {
+      color: #FF5722; /* 호버 시 색상 변경 */
+      text-decoration: underline; /* 호버 시 밑줄 */
+    }
+  </style>
+<summary class="custom-summary">
   About Me
 </summary>
 <br><br>
