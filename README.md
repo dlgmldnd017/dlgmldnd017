@@ -1,25 +1,4 @@
 <!-- Header -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-  <style>
-    .custom-summary {
-      font-size: 36px; /* 글자 크기 */
-      font-weight: bold; /* 굵게 */
-      color: #4CAF50; /* 초록색 */
-      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* 그림자 */
-      cursor: pointer; /* 클릭 가능한 표시 */
-    }
-    .custom-summary:hover {
-      color: #FF5722; /* 호버 시 색상 변경 */
-      text-decoration: underline; /* 호버 시 밑줄 */
-    }
-  </style>
-</head>
-  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
   <br/>
