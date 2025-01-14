@@ -32,8 +32,7 @@
 
 <br/><br/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   경력   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
-#### ( 컴퓨터 아키텍처, 시스템 프로그래밍) 조교 활동 ( 명지대학교(용인) ) ```(2020, 2021)```
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />   활동   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" />
 #### 삼성 청년 소프트웨어 아카데미 ( SSAFY ) ```(2023/07 ~ 2024/07)```
 
 <br/><br/>
@@ -271,6 +270,8 @@
   # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> 수상 이력 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> 삼성 청년 소프트웨어 1학기 프로젝트 우수상 ( SSAFY ) <a href="https://github.com/Team-4Byte">Dream House - 4Byte</a>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" alt="2nd Place Medal" width="25" height="25" /> 삼성 청년 소프트웨어 2학기 자율 프로젝트 우수상 ( SSAFY ) <a href="https://github.com/TeamAbbboo/nearby"> Nearby - Abbboo</a>
   <br/><br/>
   </div>
 </div>
