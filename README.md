@@ -11,7 +11,7 @@
 <br>
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary class="custom-summary">About Me</summary>
 <br><br>
 <span>
   <a href="https://kind-coding.tistory.com">
@@ -263,6 +263,15 @@
     </tr>
   </table>
 </details>
+  <style>
+    /* Summary 태그의 글자 크기 조정 */
+    .custom-summary {
+      font-size: 20px; /* 원하는 글자 크기 */
+      font-weight: bold; /* 굵게 설정 (선택 사항) */
+      color: #000; /* 글자 색상 (선택 사항) */
+      cursor: pointer; /* 마우스 포인터 변경 */
+    }
+  </style>
 <br/>
 
 <br/><br/>
