@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lobster&color=512BD4&size=36&pause=7000&center=true&vCenter=true&random=false&width=435&lines=안녕하세요. ╰( ･ ᗜ ･ )╯;  반갑습니다. ヽ(^。^)丿; 이희웅 입니다.ヽ( ´￢`)ﾉ" alt="Typing SVG" />
   </a> -->
   <div align="center">  
-<br>
 <!-- My CV/resume -->
 <details>
 <summary class="custom-summary">
